@@ -424,11 +424,8 @@ const produtosCompletos = Object.entries(produtos).map(([id, prod]) => {
 <div className="aviso-importante">
     <span className="aviso-icone">⚠️</span>
     <p>
-< main>
-       
-        Aviso: Este site serve <strong> apenas para visualizar o catálogo de mudas e fazer o pedido que será enviado ao nosso WhatsApp.</strong> 
+    Aviso: Este site serve <strong> apenas para visualizar o catálogo de mudas e fazer o pedido que será enviado ao nosso WhatsApp.</strong> 
         Não há nenhum tipo de <strong>compra ou transação de pagamento através do site!</strong> 
-< main>
     </p>
 </div>
 
